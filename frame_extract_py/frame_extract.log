@@ -1,0 +1,20 @@
+13-Feb-24 10:13:53 - slack response: 200 ok
+13-Feb-24 10:13:53 - Found credentials in shared credentials file: ~/.aws/credentials
+13-Feb-24 10:13:53 - slack response: 200 ok
+13-Feb-24 10:13:53 - connected to AWS successfully
+13-Feb-24 10:14:01 - first_record["storageId"]='076b0340-818c-475f-af41-80b82bbae528'
+13-Feb-24 10:14:01 - farme extract complete
+13-Feb-24 10:14:05 - first_record["storageId"]='07cb41fe-1f7d-4f89-a00e-1319e8e1c451'
+13-Feb-24 10:14:05 - farme extract complete
+13-Feb-24 10:14:09 - first_record["storageId"]='b48e71b3-f140-4edc-bcd6-cd14c6a0536b'
+13-Feb-24 10:14:09 - farme extract complete
+13-Feb-24 10:14:15 - first_record["storageId"]='b2cd7486-634b-4c56-82ac-37f31ad94dfa'
+13-Feb-24 10:14:15 - farme extract complete
+13-Feb-24 10:14:20 - first_record["storageId"]='33763b4d-be4d-40e6-bba6-403ac1a6b097'
+13-Feb-24 10:14:20 - farme extract complete
+13-Feb-24 10:14:24 - first_record["storageId"]='d0e4f90c-dd67-435a-8dfc-378adb3ae64d'
+13-Feb-24 10:14:24 - frame extraction for record failed
+13-Feb-24 10:14:24 - 'thumbnailStorageId'
+13-Feb-24 10:14:25 - slack response: 200 ok
+13-Feb-24 10:14:25 - No records available
+13-Feb-24 10:14:25 - no records available to process

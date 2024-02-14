@@ -1,0 +1,628 @@
+04-Oct-23 15:55:58 - slack response: 200 ok
+04-Oct-23 15:55:58 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 15:55:59 - slack response: 200 ok
+04-Oct-23 15:55:59 - connected to AWS successfully
+04-Oct-23 15:56:01 - slack response: 200 ok
+04-Oct-23 15:56:01 - whisper model loaded successfully
+04-Oct-23 16:00:04 - slack response: 200 ok
+04-Oct-23 16:00:04 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 16:00:05 - slack response: 200 ok
+04-Oct-23 16:00:05 - connected to AWS successfully
+04-Oct-23 16:00:07 - slack response: 200 ok
+04-Oct-23 16:00:07 - whisper model loaded successfully
+04-Oct-23 16:02:37 - slack response: 200 ok
+04-Oct-23 16:02:37 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 16:02:38 - slack response: 200 ok
+04-Oct-23 16:02:38 - connected to AWS successfully
+04-Oct-23 16:02:40 - slack response: 200 ok
+04-Oct-23 16:02:40 - whisper model loaded successfully
+04-Oct-23 16:03:19 - slack response: 200 ok
+04-Oct-23 16:03:19 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 16:03:20 - slack response: 200 ok
+04-Oct-23 16:03:20 - connected to AWS successfully
+04-Oct-23 16:03:22 - slack response: 200 ok
+04-Oct-23 16:03:22 - whisper model loaded successfully
+04-Oct-23 16:03:22 - collection is unlocked - continue
+04-Oct-23 16:03:22 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+04-Oct-23 16:03:29 - record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+04-Oct-23 16:03:29 - transcription complete
+04-Oct-23 16:03:29 - collection is unlocked - continue
+04-Oct-23 16:03:29 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+04-Oct-23 16:03:35 - record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+04-Oct-23 16:03:35 - transcription complete
+04-Oct-23 16:03:35 - collection is unlocked - continue
+04-Oct-23 16:03:35 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+04-Oct-23 16:03:39 - record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+04-Oct-23 16:03:39 - transcription complete
+04-Oct-23 16:03:39 - collection is unlocked - continue
+04-Oct-23 16:03:39 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+04-Oct-23 16:28:30 - slack response: 200 ok
+04-Oct-23 16:28:30 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 16:28:30 - slack response: 200 ok
+04-Oct-23 16:28:30 - connected to AWS successfully
+04-Oct-23 16:28:33 - slack response: 200 ok
+04-Oct-23 16:28:33 - whisper model loaded successfully
+04-Oct-23 16:28:33 - collection is unlocked - continue
+04-Oct-23 16:28:33 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+04-Oct-23 16:28:39 - record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+04-Oct-23 16:28:39 - transcription complete
+04-Oct-23 16:28:39 - collection is unlocked - continue
+04-Oct-23 16:28:39 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+04-Oct-23 16:28:44 - record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+04-Oct-23 16:28:44 - transcription complete
+04-Oct-23 16:28:44 - collection is unlocked - continue
+04-Oct-23 16:28:44 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+04-Oct-23 16:28:48 - record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+04-Oct-23 16:28:48 - transcription complete
+04-Oct-23 16:28:48 - collection is unlocked - continue
+04-Oct-23 16:28:48 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+04-Oct-23 16:29:00 - record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+04-Oct-23 16:29:00 - transcription complete
+04-Oct-23 16:29:00 - collection is unlocked - continue
+04-Oct-23 16:29:00 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+04-Oct-23 16:29:05 - record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+04-Oct-23 16:29:05 - transcription complete
+04-Oct-23 16:29:05 - collection is unlocked - continue
+04-Oct-23 16:29:05 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+04-Oct-23 16:29:06 - record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+04-Oct-23 16:29:06 - transcription failed check for sound
+04-Oct-23 16:29:06 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x140610760] Output file does not contain any stream
+
+04-Oct-23 16:29:06 - collection is unlocked - continue
+04-Oct-23 16:29:06 - slack response: 200 ok
+04-Oct-23 16:29:06 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:29:06 - speech2text complete on all available records
+04-Oct-23 16:31:06 - collection is unlocked - continue
+04-Oct-23 16:31:06 - slack response: 200 ok
+04-Oct-23 16:31:06 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:31:06 - speech2text complete on all available records
+04-Oct-23 16:33:06 - collection is unlocked - continue
+04-Oct-23 16:33:07 - slack response: 200 ok
+04-Oct-23 16:33:07 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:33:07 - speech2text complete on all available records
+04-Oct-23 16:35:07 - collection is unlocked - continue
+04-Oct-23 16:35:07 - slack response: 200 ok
+04-Oct-23 16:35:07 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:35:07 - speech2text complete on all available records
+04-Oct-23 16:37:07 - collection is unlocked - continue
+04-Oct-23 16:37:08 - slack response: 200 ok
+04-Oct-23 16:37:08 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:37:08 - speech2text complete on all available records
+04-Oct-23 16:39:30 - slack response: 200 ok
+04-Oct-23 16:39:30 - Found credentials in shared credentials file: ~/.aws/credentials
+04-Oct-23 16:39:30 - slack response: 200 ok
+04-Oct-23 16:39:30 - connected to AWS successfully
+04-Oct-23 16:39:32 - slack response: 200 ok
+04-Oct-23 16:39:32 - whisper model loaded successfully
+04-Oct-23 16:39:32 - collection is unlocked - continue
+04-Oct-23 16:39:32 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+04-Oct-23 16:39:39 - record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+04-Oct-23 16:39:39 - transcription complete
+04-Oct-23 16:39:39 - collection is unlocked - continue
+04-Oct-23 16:39:39 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+04-Oct-23 16:39:44 - record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+04-Oct-23 16:39:44 - transcription complete
+04-Oct-23 16:39:44 - collection is unlocked - continue
+04-Oct-23 16:39:44 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+04-Oct-23 16:39:48 - record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+04-Oct-23 16:39:48 - transcription complete
+04-Oct-23 16:39:48 - collection is unlocked - continue
+04-Oct-23 16:39:48 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+04-Oct-23 16:40:00 - record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+04-Oct-23 16:40:00 - transcription complete
+04-Oct-23 16:40:00 - collection is unlocked - continue
+04-Oct-23 16:40:00 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+04-Oct-23 16:40:05 - record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+04-Oct-23 16:40:05 - transcription complete
+04-Oct-23 16:40:05 - collection is unlocked - continue
+04-Oct-23 16:40:05 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+04-Oct-23 16:40:05 - record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+04-Oct-23 16:40:05 - transcription failed check for sound
+04-Oct-23 16:40:05 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x158e10760] Output file does not contain any stream
+
+04-Oct-23 16:40:05 - collection is unlocked - continue
+04-Oct-23 16:40:06 - slack response: 200 ok
+04-Oct-23 16:40:06 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:40:06 - speech2text complete on all available records
+04-Oct-23 16:42:06 - collection is unlocked - continue
+04-Oct-23 16:42:06 - slack response: 200 ok
+04-Oct-23 16:42:06 - One or more records have been locked for over 10 minutes.
+04-Oct-23 16:42:06 - speech2text complete on all available records
+26-Oct-23 11:47:47 - slack response: 200 ok
+26-Oct-23 11:47:47 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 11:47:47 - slack response: 200 ok
+26-Oct-23 11:47:47 - connected to AWS successfully
+26-Oct-23 11:47:48 - slack response: 200 ok
+26-Oct-23 11:47:48 -  ‼️ An error occurred: name 'speechToTextQ' is not defined
+
+Traceback (most recent call last):
+  File "/Users/melissagray/Documents/Python/Whisper/functions_extract_code/speech2TextProd_local.py", line 123, in <module>
+    result = speechToTextQ.find_one(collection_record)
+NameError: name 'speechToTextQ' is not defined
+
+26-Oct-23 11:48:18 - slack response: 200 ok
+26-Oct-23 11:48:18 -  ‼️ An error occurred: name 'speechToTextQ' is not defined
+
+Traceback (most recent call last):
+  File "/Users/melissagray/Documents/Python/Whisper/functions_extract_code/speech2TextProd_local.py", line 123, in <module>
+    result = speechToTextQ.find_one(collection_record)
+NameError: name 'speechToTextQ' is not defined
+
+26-Oct-23 11:52:48 - slack response: 200 ok
+26-Oct-23 11:52:48 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 11:52:49 - slack response: 200 ok
+26-Oct-23 11:52:49 - connected to AWS successfully
+26-Oct-23 11:52:49 - collection is unlocked - continue
+26-Oct-23 11:52:49 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+26-Oct-23 11:52:52 - record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+26-Oct-23 11:52:52 - transcription failed check for sound
+26-Oct-23 11:52:52 - name 'model' is not defined
+26-Oct-23 11:52:52 - collection is unlocked - continue
+26-Oct-23 11:52:52 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+26-Oct-23 11:52:53 - record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+26-Oct-23 11:52:53 - transcription failed check for sound
+26-Oct-23 11:52:53 - name 'model' is not defined
+26-Oct-23 11:52:53 - collection is unlocked - continue
+26-Oct-23 11:52:53 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+26-Oct-23 11:52:53 - record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+26-Oct-23 11:52:53 - transcription failed check for sound
+26-Oct-23 11:52:53 - name 'model' is not defined
+26-Oct-23 11:52:53 - collection is unlocked - continue
+26-Oct-23 11:52:53 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+26-Oct-23 11:52:54 - record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+26-Oct-23 11:52:54 - transcription failed check for sound
+26-Oct-23 11:52:54 - name 'model' is not defined
+26-Oct-23 11:52:54 - collection is unlocked - continue
+26-Oct-23 11:52:54 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+26-Oct-23 11:52:54 - record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+26-Oct-23 11:52:54 - transcription failed check for sound
+26-Oct-23 11:52:54 - name 'model' is not defined
+26-Oct-23 11:52:55 - collection is unlocked - continue
+26-Oct-23 11:52:55 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+26-Oct-23 11:52:55 - record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+26-Oct-23 11:52:55 - transcription failed check for sound
+26-Oct-23 11:52:55 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x600003ce00c0] Output file does not contain any stream
+
+26-Oct-23 11:52:55 - collection is unlocked - continue
+26-Oct-23 11:52:55 - slack response: 200 ok
+26-Oct-23 11:52:55 - One or more records have been locked for over 10 minutes.
+26-Oct-23 11:52:55 - speech2text complete on all available records
+26-Oct-23 11:55:33 - slack response: 200 ok
+26-Oct-23 11:55:33 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 11:55:34 - slack response: 200 ok
+26-Oct-23 11:55:34 - connected to AWS successfully
+26-Oct-23 11:55:34 - collection is unlocked - continue
+26-Oct-23 11:55:34 - slack response: 200 ok
+26-Oct-23 11:55:34 - One or more records have been locked for over 10 minutes.
+26-Oct-23 11:55:34 - speech2text complete on all available records
+26-Oct-23 12:58:58 - slack response: 200 ok
+26-Oct-23 12:58:58 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 12:58:58 - slack response: 200 ok
+26-Oct-23 12:58:58 - connected to AWS successfully
+26-Oct-23 12:58:59 - collection is unlocked - continue
+26-Oct-23 12:58:59 - slack response: 200 ok
+26-Oct-23 12:58:59 - One or more records have been locked for over 10 minutes.
+26-Oct-23 12:58:59 - speech2text complete on all available records
+26-Oct-23 13:02:32 - slack response: 200 ok
+26-Oct-23 13:04:27 - slack response: 200 ok
+26-Oct-23 13:04:27 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 13:04:28 - slack response: 200 ok
+26-Oct-23 13:04:28 - connected to AWS successfully
+26-Oct-23 13:04:28 - collection is unlocked - continue
+26-Oct-23 13:04:28 - slack response: 200 ok
+26-Oct-23 13:04:28 - One or more records have been locked for over 10 minutes.
+26-Oct-23 13:04:28 - speech2text complete on all available records
+26-Oct-23 13:05:06 - slack response: 200 ok
+26-Oct-23 13:05:06 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 13:05:06 - slack response: 200 ok
+26-Oct-23 13:05:06 - connected to AWS successfully
+26-Oct-23 13:05:12 - slack response: 200 ok
+26-Oct-23 13:05:12 - whisper model loaded successfully
+26-Oct-23 13:05:12 - collection is unlocked - continue
+26-Oct-23 13:05:12 - slack response: 200 ok
+26-Oct-23 13:05:12 - One or more records have been locked for over 10 minutes.
+26-Oct-23 13:05:12 - speech2text complete on all available records
+26-Oct-23 13:41:59 - slack response: 200 ok
+26-Oct-23 13:41:59 - Found credentials in shared credentials file: ~/.aws/credentials
+26-Oct-23 13:41:59 - slack response: 200 ok
+26-Oct-23 13:41:59 - connected to AWS successfully
+26-Oct-23 13:42:05 - slack response: 200 ok
+26-Oct-23 13:42:05 - whisper model loaded successfully
+26-Oct-23 13:42:05 - collection is unlocked - continue
+26-Oct-23 13:42:05 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+26-Oct-23 13:42:22 - first_record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+26-Oct-23 13:42:22 - transcription complete
+26-Oct-23 13:42:22 - collection is unlocked - continue
+26-Oct-23 13:42:22 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+26-Oct-23 13:42:36 - first_record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+26-Oct-23 13:42:36 - transcription complete
+26-Oct-23 13:42:36 - collection is unlocked - continue
+26-Oct-23 13:42:36 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+26-Oct-23 13:42:48 - first_record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+26-Oct-23 13:42:48 - transcription complete
+26-Oct-23 13:42:48 - collection is unlocked - continue
+26-Oct-23 13:42:48 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+26-Oct-23 13:43:27 - first_record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+26-Oct-23 13:43:27 - transcription complete
+26-Oct-23 13:43:27 - collection is unlocked - continue
+26-Oct-23 13:43:27 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+26-Oct-23 13:43:40 - first_record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+26-Oct-23 13:43:40 - transcription complete
+26-Oct-23 13:43:40 - collection is unlocked - continue
+26-Oct-23 13:43:40 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+26-Oct-23 13:43:41 - first_record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+26-Oct-23 13:43:41 - transcription failed check for sound
+26-Oct-23 13:43:41 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x600001398000] Output file does not contain any stream
+
+26-Oct-23 13:43:41 - collection is unlocked - continue
+26-Oct-23 13:43:41 - slack response: 200 ok
+26-Oct-23 13:43:41 - One or more records have been locked for over 10 minutes.
+26-Oct-23 13:43:41 - speech2text complete on all available records
+31-Oct-23 10:48:57 - slack response: 200 ok
+31-Oct-23 10:48:57 - Found credentials in shared credentials file: ~/.aws/credentials
+31-Oct-23 10:48:58 - slack response: 200 ok
+31-Oct-23 10:48:58 - connected to AWS successfully
+31-Oct-23 10:49:00 - slack response: 200 ok
+31-Oct-23 10:49:00 - whisper model loaded successfully
+31-Oct-23 10:49:00 - collection is unlocked - continue
+31-Oct-23 10:49:00 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+31-Oct-23 10:49:06 - first_record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+31-Oct-23 10:49:06 - transcription complete
+31-Oct-23 10:49:06 - collection is unlocked - continue
+31-Oct-23 10:49:06 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+31-Oct-23 10:49:11 - first_record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+31-Oct-23 10:49:11 - transcription complete
+31-Oct-23 10:49:11 - collection is unlocked - continue
+31-Oct-23 10:49:11 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+31-Oct-23 10:49:15 - first_record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+31-Oct-23 10:49:15 - transcription complete
+31-Oct-23 10:49:15 - collection is unlocked - continue
+31-Oct-23 10:49:15 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+31-Oct-23 10:49:27 - first_record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+31-Oct-23 10:49:27 - transcription complete
+31-Oct-23 10:49:27 - collection is unlocked - continue
+31-Oct-23 10:49:27 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+31-Oct-23 10:49:31 - first_record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+31-Oct-23 10:49:31 - transcription complete
+31-Oct-23 10:49:31 - collection is unlocked - continue
+31-Oct-23 10:49:31 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+31-Oct-23 10:49:32 - first_record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+31-Oct-23 10:49:32 - transcription failed check for sound
+31-Oct-23 10:49:32 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x6000000a4480] Output file does not contain any stream
+
+31-Oct-23 10:49:32 - collection is unlocked - continue
+31-Oct-23 10:49:32 - slack response: 200 ok
+31-Oct-23 10:49:32 - One or more records have been locked for over 10 minutes.
+31-Oct-23 10:49:32 - speech2text complete on all available records
+31-Oct-23 10:51:32 - collection is unlocked - continue
+31-Oct-23 10:51:32 - storageId of file is0044423e-3418-4925-a6f0-abec32f6217e
+31-Oct-23 10:51:33 - first_record["storageId"]='0044423e-3418-4925-a6f0-abec32f6217e'
+31-Oct-23 10:51:33 - transcription failed check for sound
+31-Oct-23 10:51:33 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 14.0.0 (clang-1400.0.29.202)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:04.10, start: 0.000000, bitrate: 4989 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 4984 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x600001bf4480] Output file does not contain any stream
+
+31-Oct-23 10:51:33 - collection is unlocked - continue
+31-Oct-23 10:51:33 - storageId of file is007cbd65-4926-4043-9e99-80de37f735bc
+31-Oct-23 10:52:14 - first_record["storageId"]='007cbd65-4926-4043-9e99-80de37f735bc'
+31-Oct-23 10:52:14 - transcription complete
+31-Oct-23 10:52:14 - collection is unlocked - continue
+31-Oct-23 10:52:15 - slack response: 200 ok
+31-Oct-23 10:52:15 - No records available
+31-Oct-23 10:52:15 - no records available to process
+09-Feb-24 12:02:49 - slack response: 200 ok
+09-Feb-24 12:02:49 - Found credentials in shared credentials file: ~/.aws/credentials
+09-Feb-24 12:02:49 - slack response: 200 ok
+09-Feb-24 12:02:49 - connected to AWS successfully
+09-Feb-24 12:02:52 - slack response: 200 ok
+09-Feb-24 12:02:52 - whisper model loaded successfully
+09-Feb-24 12:02:52 - collection is unlocked - continue
+09-Feb-24 12:02:52 - slack response: 200 ok
+09-Feb-24 12:02:52 - No records available
+09-Feb-24 12:02:52 - no records available to process
+09-Feb-24 13:43:49 - slack response: 200 ok
+09-Feb-24 13:43:49 - Found credentials in shared credentials file: ~/.aws/credentials
+09-Feb-24 13:43:50 - slack response: 200 ok
+09-Feb-24 13:43:50 - connected to AWS successfully
+09-Feb-24 13:43:52 - slack response: 200 ok
+09-Feb-24 13:43:52 - whisper model loaded successfully
+09-Feb-24 13:43:52 - collection is unlocked - continue
+09-Feb-24 13:43:52 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+09-Feb-24 13:43:53 - first_record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+09-Feb-24 13:43:53 - transcription failed check for sound
+09-Feb-24 13:43:53 - Failed to load audio: dyld[1152]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:53 - collection is unlocked - continue
+09-Feb-24 13:43:53 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+09-Feb-24 13:43:53 - first_record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+09-Feb-24 13:43:53 - transcription failed check for sound
+09-Feb-24 13:43:53 - Failed to load audio: dyld[1154]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:53 - collection is unlocked - continue
+09-Feb-24 13:43:53 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+09-Feb-24 13:43:53 - first_record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+09-Feb-24 13:43:53 - transcription failed check for sound
+09-Feb-24 13:43:53 - Failed to load audio: dyld[1155]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:53 - collection is unlocked - continue
+09-Feb-24 13:43:53 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+09-Feb-24 13:43:54 - first_record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+09-Feb-24 13:43:54 - transcription failed check for sound
+09-Feb-24 13:43:54 - Failed to load audio: dyld[1156]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:54 - collection is unlocked - continue
+09-Feb-24 13:43:54 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+09-Feb-24 13:43:54 - first_record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+09-Feb-24 13:43:54 - transcription failed check for sound
+09-Feb-24 13:43:54 - Failed to load audio: dyld[1157]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:54 - collection is unlocked - continue
+09-Feb-24 13:43:54 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+09-Feb-24 13:43:54 - first_record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+09-Feb-24 13:43:54 - transcription failed check for sound
+09-Feb-24 13:43:54 - Failed to load audio: dyld[1158]: Library not loaded: /opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib
+  Referenced from: <2A51F80F-874A-3D40-87C1-BEDE8979EC7A> /opt/homebrew/Cellar/librist/0.2.7_3/lib/librist.4.dylib
+  Reason: tried: '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/opt/mbedtls/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/opt/homebrew/Cellar/mbedtls/3.5.0/lib/libmbedcrypto.14.dylib' (no such file), '/usr/local/lib/libmbedcrypto.14.dylib' (no such file), '/usr/lib/libmbedcrypto.14.dylib' (no such file, not in dyld cache)
+
+09-Feb-24 13:43:54 - collection is unlocked - continue
+09-Feb-24 13:43:54 - slack response: 200 ok
+09-Feb-24 13:43:54 - One or more records have been locked for over 10 minutes.
+09-Feb-24 13:43:54 - speech2text complete on all available records
+09-Feb-24 13:47:00 - slack response: 200 ok
+09-Feb-24 13:47:00 - Found credentials in shared credentials file: ~/.aws/credentials
+09-Feb-24 13:47:00 - slack response: 200 ok
+09-Feb-24 13:47:00 - connected to AWS successfully
+09-Feb-24 13:48:03 - slack response: 200 ok
+09-Feb-24 13:48:03 - Found credentials in shared credentials file: ~/.aws/credentials
+09-Feb-24 13:48:04 - slack response: 200 ok
+09-Feb-24 13:48:04 - connected to AWS successfully
+09-Feb-24 13:48:06 - slack response: 200 ok
+09-Feb-24 13:48:06 - whisper model loaded successfully
+09-Feb-24 13:48:06 - collection is unlocked - continue
+09-Feb-24 13:48:06 - storageId of file is004b9a00-ede3-4ff3-9533-200b6cffdff5
+09-Feb-24 13:48:12 - first_record["storageId"]='004b9a00-ede3-4ff3-9533-200b6cffdff5'
+09-Feb-24 13:48:12 - transcription complete
+09-Feb-24 13:48:12 - collection is unlocked - continue
+09-Feb-24 13:48:12 - storageId of file is0069391b-1846-4a8f-8748-74a633cca4ed
+09-Feb-24 13:48:18 - first_record["storageId"]='0069391b-1846-4a8f-8748-74a633cca4ed'
+09-Feb-24 13:48:18 - transcription complete
+09-Feb-24 13:48:18 - collection is unlocked - continue
+09-Feb-24 13:48:18 - storageId of file is00694a5d-c10d-47de-93ea-14e4366ccf87
+09-Feb-24 13:48:21 - first_record["storageId"]='00694a5d-c10d-47de-93ea-14e4366ccf87'
+09-Feb-24 13:48:21 - transcription complete
+09-Feb-24 13:48:21 - collection is unlocked - continue
+09-Feb-24 13:48:21 - storageId of file is0069a27e-e0e9-4c56-88cd-e8460292d47f
+09-Feb-24 13:48:34 - first_record["storageId"]='0069a27e-e0e9-4c56-88cd-e8460292d47f'
+09-Feb-24 13:48:34 - transcription complete
+09-Feb-24 13:48:34 - collection is unlocked - continue
+09-Feb-24 13:48:34 - storageId of file is006e7537-325d-4ffb-b6cb-870b4b954c7f
+09-Feb-24 13:48:39 - first_record["storageId"]='006e7537-325d-4ffb-b6cb-870b4b954c7f'
+09-Feb-24 13:48:39 - transcription complete
+09-Feb-24 13:48:39 - collection is unlocked - continue
+09-Feb-24 13:48:39 - storageId of file is0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7
+09-Feb-24 13:48:39 - first_record["storageId"]='0079ef9b-4eee-4ff5-9dc8-2f8ce24f5cd7'
+09-Feb-24 13:48:39 - transcription failed check for sound
+09-Feb-24 13:48:39 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 15.0.0 (clang-1500.0.40.1)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0_1 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:14.40, start: 0.000000, bitrate: 1109 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 1105 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x600003d5c480] Output file does not contain any stream
+
+09-Feb-24 13:48:39 - collection is unlocked - continue
+09-Feb-24 13:48:40 - slack response: 200 ok
+09-Feb-24 13:48:40 - One or more records have been locked for over 10 minutes.
+09-Feb-24 13:48:40 - speech2text complete on all available records
+09-Feb-24 13:50:40 - collection is unlocked - continue
+09-Feb-24 13:50:40 - storageId of file is0044423e-3418-4925-a6f0-abec32f6217e
+09-Feb-24 13:50:41 - first_record["storageId"]='0044423e-3418-4925-a6f0-abec32f6217e'
+09-Feb-24 13:50:41 - transcription failed check for sound
+09-Feb-24 13:50:41 - Failed to load audio: ffmpeg version 6.0 Copyright (c) 2000-2023 the FFmpeg developers
+  built with Apple clang version 15.0.0 (clang-1500.0.40.1)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.0_1 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60.  3.100 / 60.  3.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+  libpostproc    57.  1.100 / 57.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Users/melissagray/Documents/Python/Whisper/temporary_download/video1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.20.100
+  Duration: 00:00:04.10, start: 0.000000, bitrate: 4989 kb/s
+  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 720x1280, 4984 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+Output #0, s16le, to 'pipe:':
+[out#0/s16le @ 0x600001da43c0] Output file does not contain any stream
+
+09-Feb-24 13:50:41 - collection is unlocked - continue
+09-Feb-24 13:50:41 - storageId of file is007cbd65-4926-4043-9e99-80de37f735bc
+09-Feb-24 13:51:04 - first_record["storageId"]='007cbd65-4926-4043-9e99-80de37f735bc'
+09-Feb-24 13:51:04 - transcription complete
+09-Feb-24 13:51:04 - collection is unlocked - continue
+09-Feb-24 13:51:04 - slack response: 200 ok
+09-Feb-24 13:51:04 - No records available
+09-Feb-24 13:51:04 - no records available to process
+09-Feb-24 13:53:04 - collection is unlocked - continue
+09-Feb-24 13:53:05 - slack response: 200 ok
+09-Feb-24 13:53:05 - No records available
+09-Feb-24 13:53:05 - no records available to process
+09-Feb-24 13:55:05 - collection is unlocked - continue
+09-Feb-24 13:55:05 - slack response: 200 ok
+09-Feb-24 13:55:05 - No records available
+09-Feb-24 13:55:05 - no records available to process
+09-Feb-24 13:57:05 - collection is unlocked - continue
+09-Feb-24 13:57:05 - slack response: 200 ok
+09-Feb-24 13:57:05 - No records available
+09-Feb-24 13:57:05 - no records available to process
